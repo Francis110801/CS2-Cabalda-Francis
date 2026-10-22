@@ -8,3 +8,6 @@ The program calculates the Electricity bill
 - Process: Calculates the bill using the 2 inputs.
 - Output: The electricity bill
 - Does not have input validation
+
+## version 2 - Code with Validation
+- added validation
